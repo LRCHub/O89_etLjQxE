@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "aenergy",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-11T06:00:21.333326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "aenergy",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/01_aenergy_aespa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "aenergy",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/02_aenergy_aespa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "aenergy",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/03_aenergy_aespa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "aenergy",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_aenergy_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aenergy (에너지)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/05_Aenergy_(에너지)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "aenergy",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/06_aenergy_aespa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "aenergy",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_aenergy_aespa.txt"
+    }
+  ]
+}
